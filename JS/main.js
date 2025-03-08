@@ -4,8 +4,8 @@ new fullpage('#fullpage', {
     scrollHorizontally: true,
     navigation: true,
     navigationPosition: 'right',
-    anchors: ['About', 'Skills', 'Blog'],
-    navigationTooltips: ['About', 'Skills', 'Blog'],
+    anchors: ['About', 'Skills', 'Proyects'],
+    navigationTooltips: ['About', 'Skills', 'Proyects'],
 
 });
 
